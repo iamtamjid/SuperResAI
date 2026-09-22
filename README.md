@@ -138,10 +138,11 @@ Open the `SuperResolutionAnalysis.ipynb` notebook. If prompted, select the `supe
 
 | Student ID | Name                      |
 | ---------- | ------------------------- |
-| 2132882642 | Atique Shahrier Chaklader |
+| 2212626042 | Tamjid                    |
 | 2212779042 | Samiyeel Alim Binaaf      |
+| 2132882642 | Atique Shahrier Chaklader |
 | 2022122042 | Md. Mubtasim Fuad         |
-| 2212626042 | Tamjid              |
+
 
 Faculty Supervisor: Mohammad Shifat-E-Rabbi
 Department: Department of Electrical and Computer Engineering
